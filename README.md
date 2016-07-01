@@ -1,4 +1,3 @@
 #Rails
-## Devise
+## Devise - Authentication
 ### React-Redux-Router
-### Authentication
